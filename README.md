@@ -37,7 +37,7 @@
 
 ```bash
 # Клонируем репозиторий
-git clone https://github.com/Vim-01/LmStudio-To-Telegram-bot.git
+git clone https://github.com/dextray765/lms-to-telegram-fork.git
 cd LmStudio-To-Telegram-bot
 
 # Создаём виртуальное окружение
@@ -221,7 +221,7 @@ chmod +x run.sh
 
 ## 📬 Контакты
 
-- **GitHub Issues**: [Сообщить об ошибке](https://github.com/Vim-01/LmStudio-To-Telegram-bot/issues)
+- **GitHub Issues**: [Сообщить об ошибке](https://github.com/dextray765/lms-to-telegram-fork/issues)
 
 ---
 
